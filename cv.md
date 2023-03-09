@@ -24,9 +24,9 @@ function multiply(a, b){
 * [DSS (training project)](https://nakadonn.github.io/hurwitz-criterion/)
 * [ITlogia project](https://nakadonn.github.io/cars-hw/)
 ### Work
-*_September — November 2022_ | Webmaster / Content Manager
-*_August 2022_ | Product testing and certification engineer
-*_July — August 2021_ | Clerk
+* _September — November 2022_ | Webmaster / Content Manager
+* _August 2022_ | Product testing and certification engineer
+* _July — August 2021_ | Clerk
 ## Education
 * __University:__ Belarussian State Economic University, 2020 — 2024
 * __Courses:__
